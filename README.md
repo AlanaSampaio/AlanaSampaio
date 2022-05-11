@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/AlanaSampaio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanaSampaio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanaSampaio&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanaSampaio&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanaSampaio&layout=compact&langs_count=6&theme=synthwave"/>
 </div>
   
    ### Pra saber um pouco mais sobre mim aqui estão minhas redes sociais!
