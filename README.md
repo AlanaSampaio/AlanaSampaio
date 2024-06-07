@@ -3,7 +3,7 @@
       Graduanda em engenharia de computação pela Universidade estadual de 
       Feira de Santana desde 2019.
       </br>
-      Apaixonada por livros, gatos e chocolate
+      Apaixonada por livros, gatos e chocolate desde os anos 2000.
 </div>
   
 
