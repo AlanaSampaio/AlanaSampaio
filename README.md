@@ -23,7 +23,7 @@
       
 Aprendendo | Interessada em 
 ------------------- | -------------------
-<img src="/assets/java.svg" alt="java" width="50"/><img src="/assets/javascript.svg" alt="javascript" width="50" /> <img src="/assets/css.svg" alt="css3" width="50"/> <br /> <img src="/assets/html.svg" alt="html5"  width="50"/> | <img src="/assets/php.svg" alt="typescript" width="50"/> <img src="/assets/typescript.svg" alt="typescript" width="50"/> <img src="/assets/react.svg" alt="react" width="50"/> <img src="/assets/nodejs.svg" alt="nodejs" width="50"/> <img src="/assets/python.svg" alt="python"  width="50"/><br/><img src="/assets/docker.svg" alt="docker" width="50"/> <img src="/assets/yarn.svg" alt="yarn" width="50"/><img src="/assets/git.svg" alt="git" width="50"/>
+<img src="/assets/java.svg" alt="java" width="50"/><img src="/assets/javascript.svg" alt="javascript" width="50" /> <img src="/assets/css.svg" alt="css3" width="50"/> <br /> <img src="/assets/html.svg" alt="html5"  width="50"/> <img src="/assets/sql.svg" alt="sql" width="50"/> | <img src="/assets/php.svg" alt="php" width="50"/> <img src="/assets/typescript.svg" alt="typescript" width="50"/> <img src="/assets/react.svg" alt="react" width="50"/> <img src="/assets/nodejs.svg" alt="nodejs" width="50"/></br><img src="/assets/python.svg" alt="python"  width="50"/><img src="/assets/docker.svg" alt="docker" width="50"/> <img src="/assets/yarn.svg" alt="yarn" width="50"/><img src="/assets/git.svg" alt="git" width="50"/>
 </div>
 
 <h3 align="center">Conecte-se comigo!</h3>
